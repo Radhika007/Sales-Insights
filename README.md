@@ -7,3 +7,7 @@ MS Excel <br>
 <br> Tableau <br>
 # Revenue Analysis
 ![RevenueDashboard](https://github.com/Radhika007/Sales-Insights/assets/37405390/941b9925-7200-4765-b40d-e7a132a93f10)
+<br>
+# Profit Analysis
+<br>
+![ProfitDash](https://github.com/Radhika007/Sales-Insights/assets/37405390/57598ebf-8159-4ecd-90d8-8cd7b807102b)
